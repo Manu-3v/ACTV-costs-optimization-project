@@ -8,7 +8,7 @@ The problem statement is subsequently translated into executable code. Through t
 achieve the capability to derive optimal solutions for this transportation optimization challenge.
 
 This project was developed: 
- - for the exam of **Managerual Decision Making and Modelling [EM1407]**
+ - for the exam of **Managerial Decision Making and Modelling [EM1407]**
  - of the degree program **Data Analytics for Business and Society**
  - at **Università Ca' Foscari di Venezia**
  - by **Daniele Barbato**, **Eleonora Marcassa**, **Manuel Trevisan**
